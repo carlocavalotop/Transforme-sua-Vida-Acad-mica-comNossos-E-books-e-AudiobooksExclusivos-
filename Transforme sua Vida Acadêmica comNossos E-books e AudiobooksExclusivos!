@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transforme sua Vida Acadêmica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #4CAF50;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Transforme sua Vida Acadêmica</h1>
+        <p>Com nossos E-books e Audiobooks Exclusivos</p>
+    </header>
+    <div class="container">
+        <h2>Domine a Arte de Estudar, Organizar e Manter o Foco</h2>
+        <p>
+            Você está cansado(a) de procrastinar ou de sentir que seus estudos não rendem? Chegou a hora de virar o jogo! 
+            Apresentamos uma coleção poderosa de e-books e audiobooks que vão revolucionar sua maneira de aprender e se organizar.
+        </p>
+
+        <h2>O que você vai encontrar:</h2>
+
+        <h3>1. Aprendizado Turbo: Como Estudar Eficazmente e Dominar Qualquer Matéria</h3>
+        <p>
+            Descubra estratégias práticas e comprovadas para potencializar seu aprendizado. O que você vai aprender:
+        </p>
+        <ul>
+            <li>Técnicas de memorização rápidas e eficazes.</li>
+            <li>Como criar um espaço de estudo perfeito.</li>
+            <li>Passos simples para dominar qualquer matéria com confiança.</li>
+        </ul>
+
+        <h3>2. Autodisciplina em Ação: Como Vencer a Procrastinação e Estudar com Foco Total</h3>
+        <p>
+            Diga adeus à procrastinação! Este guia ensina como manter o foco e a produtividade em alta. O que você vai aprender:
+        </p>
+        <ul>
+            <li>Dicas práticas para criar hábitos poderosos.</li>
+            <li>Métodos para eliminar distrações e manter a concentração.</li>
+            <li>Como transformar sua rotina em uma máquina de produtividade.</li>
+        </ul>
+
+        <h3>3. Desvendando a Organização: Como se Preparar para um Ano Letivo Produtivo e de Sucesso</h3>
+        <p>
+            Organize sua vida acadêmica e alcance resultados extraordinários. O que você vai aprender:
+        </p>
+        <ul>
+            <li>Planejamento estratégico para o ano letivo.</li>
+            <li>Métodos infalíveis para gerenciar seu tempo.</li>
+            <li>Dicas para balancear estudo, lazer e bem-estar.</li>
+        </ul>
+
+        <h2>E o melhor de tudo... Audiobooks Inclusos!</h2>
+        <p>
+            Com os audiobooks, você pode aprender em qualquer lugar: no trânsito, na academia ou enquanto relaxa. 
+        </p>
+
+        <h2>De R$ 79,90 Por Apenas R$ 39,90!</h2>
+        <p>
+            Isso mesmo! Por menos do que o valor de uma pizza, você terá acesso a uma coleção completa que pode transformar seus 
+            resultados acadêmicos e sua vida.
+        </p>
+        
+        <h3>Por que investir nessa coleção?</h3>
+        <ul>
+            <li>Conteúdo direto ao ponto, sem enrolação.</li>
+            <li>Estratégias práticas que podem ser aplicadas imediatamente.</li>
+            <li>Ideal para estudantes, concurseiros e profissionais que querem melhorar sua produtividade.</li>
+        </ul>
+
+        <h2>Oferta Exclusiva por Tempo Limitado</h2>
+        <p>
+            Garanta os 3 e-books + audiobooks por apenas R$ 39,90! Mas atenção: esta oferta especial pode acabar a qualquer momento.
+        </p>
+        <p style="text-align: center; font-weight: bold;">
+            <a href="https://pay.cakto.com.br/9Be9BoB" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Clique aqui para garantir seu acesso!</a>
+        </p>
+    </div>
+</body>
+</html>
